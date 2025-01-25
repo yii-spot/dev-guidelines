@@ -1,0 +1,25 @@
+{
+  "name": "yii-spot/dev-guidelines",
+  "description": "Comprehensive coding standards, best practices, and decision documentation to improve consistency and quality in software development.",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Thomas Udalrik",
+      "email": "thomas.udalrik@yii-spot.com",
+      "homepage": "https://www.yii-spot.com"
+    }
+  ],
+  "keywords": [
+    "coding-standards",
+    "best-practices",
+    "phpcs",
+    "development",
+    "guidelines"
+  ],
+  "homepage": "https://www.yii-spot.com",
+  "support": {
+    "issues": "https://github.com/yii-spot/dev-guidelines/issues",
+    "source": "https://github.com/yii-spot/dev-guidelines"
+  }
+}
